@@ -75,9 +75,9 @@
 
 <div align="center">
 
-<a href="https://github.com/ChangSoftwareDev/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChangSoftwareDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChangSoftwareDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ChangSoftwareDev"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChangSoftwareDev&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="ChangSoftwareDev |Stats" />
+   
+   <a href="https://github.com/ChangSoftwareDev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChangSoftwareDev&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
 
 </a>
 </div>
@@ -104,7 +104,7 @@
 
 <div align="center">
   
-[![Github](https://visitcount.itsvg.in/api?id=ChangSoftwareDev&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChangSoftwareDev&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
