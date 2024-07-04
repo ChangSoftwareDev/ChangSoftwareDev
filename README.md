@@ -13,8 +13,7 @@
   
 [![](https://visitcount.itsvg.in/api?id=ChangSoftwareDev&icon=5&color=1)](https://visitcount.itsvg.in)
 [![Github](https://img.shields.io/github/followers/ChangSoftwareDev?label=Follow&style=social)](https://github.com/ChangSoftwareDev)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](/https://discord.gg/4pNcNhSf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mensingchang/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mensingchang/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/starrifttv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MensingChang) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mensingchang/)
 </div>
 
 <br>
